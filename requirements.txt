@@ -1,0 +1,7 @@
+google.generativeai
+serial
+pyttsx3
+speechRecognition
+keyboard
+pyserial
+PyAudio
