@@ -1,9 +1,12 @@
-Projeto feito no Cesar School
+# Site Tutorial AI Control Machines
 
-Grupo:
+Bem-vindo ao site que te ensina a usar AI do Gemini para comandar o arduino através da resposta dela aos seus comandos!
+---
 
-Bruno dornelas: https://github.com/BrunoDornelas2
-Arthur Borba: https://github.com/ArthurLins00
-Paulo Henrique: https://github.com/phabp
-Cleyton Hercílio: https://github.com/cleytonhercilio
-Wictor Hugo
+### 🚀 **Acesse o Site**
+
+Você pode visualizar o site diretamente no seguinte link:
+
+https://brunodornelas2.github.io/Site-AICM/
+
+---
