@@ -1,9 +1,4 @@
-# Site Tutorial AI Control Machines
-
-Bem-vindo ao site que te ensina a usar AI do Gemini para comandar o arduino através da resposta dela aos seus comandos!
----
-
-### 🚀 **Acesse o Site**
+### 🚀 **Acesse o Site para o Tutorial do Projeto AI Control Machines**
 
 Você pode visualizar o site diretamente no seguinte link:
 
